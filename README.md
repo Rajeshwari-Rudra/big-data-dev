@@ -8,6 +8,6 @@ I’m interested to work as a “Data Scientist” where I can play with huge am
 ## Links:
 You can connect me on following:-
 
-- Linkedin (https://www.linkedin.com/in/rajeshwari-r-52b53095/)
-- GitHub (https://github.com/Rajeshwari-Rudra)
+- [LinkedIn](https://www.linkedin.com/in/rajeshwari-r-52b53095/)
+- [GitHub](https://github.com/Rajeshwari-Rudra)
 
